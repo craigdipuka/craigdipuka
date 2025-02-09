@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Craig Dipuka</h1>
 <h3 align="center">🔒 Cybersecurity Professional | 🛡️ Threat Analyst | 🚀 Incident Response Specialist</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=craigdipuka" alt="craigdipuka" /></a> </p>
+
 
 - 🌱 I’m currently learning **Cloud Security and SOC Analysis and Cloud Architecture**
 - 📝 About Me **As a cybersecurity professional with expertise in threat analysis, risk mitigation, and incident response, I am driven by a commitment to safeguarding digital assets through proactive strategies and ethical practices. My passion for securing critical infrastructure positions me to support organizations in achieving robust security postures and maintaining stakeholder confidence.**
